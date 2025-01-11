@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到 Morethan 的知识库📖
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+这里主要存放初步加工过的知识，因此很多表述并不严谨。
+
+逻辑更加完整的输出性文章见[Morethan 小站](https://morethan987.github.io/)

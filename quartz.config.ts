@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Knowledge Base",
+    pageTitle: "🪴Morethan's Knowledge Base",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "zh-CN",
     baseUrl: "morethan987.github.io/KnowledgeBase",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
